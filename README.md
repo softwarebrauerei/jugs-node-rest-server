@@ -9,7 +9,7 @@ JUGS "Cool Java" - Node.js REST API Demo
 1. Clone this Repo
 2. `cd` into `jugs-node-rest-server`
 3. Run `npm install`
-4. Run `coffee -c /src -o /lib
+4. Run `coffee -c src -o lib`
 
 
 # Usage
